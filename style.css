@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 .custom-nav a{
     font-weight: 600;
     padding-right: 1rem;
@@ -13,4 +16,8 @@
     background-position: top;
     background-repeat: no-repeat;
     background-size:70px;
+}
+.highlight-clr{
+    color:orange;
+    font-weight: 600;
 }
