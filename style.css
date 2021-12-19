@@ -1,0 +1,16 @@
+.custom-nav a{
+    font-weight: 600;
+    padding-right: 1rem;
+}
+.slider-main-bg{
+    background-image: url(./images/bg-2.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size:150px;
+}
+.slider-bg{
+    background-image: url(./images/bg-1.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size:70px;
+}
