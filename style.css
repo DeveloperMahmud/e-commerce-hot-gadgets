@@ -20,4 +20,14 @@
 .highlight-clr{
     color:orange;
     font-weight: 600;
+    cursor: pointer;
 }
+.catagory-img{
+    width: 100px;
+}
+.cat-1{
+    border-radius: 20px 0px;
+}
+.cat-2{
+    border-radius: 0px 20px;
+};
